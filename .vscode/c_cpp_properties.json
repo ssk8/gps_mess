@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/curt/.arduino15/packages/adafruit/hardware/samd/1.5.10/**"
+            ],
+            "forcedInclude": [
+                "/home/curt/.arduino15/packages/adafruit/hardware/samd/1.5.10/cores/arduino/Arduino.h"
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
